@@ -1,0 +1,12 @@
+kmapper
+numpy
+scikit-learn 
+plotly
+ipywidgets
+matplotlib
+ripser
+persim
+pyBallMapper==0.3.7
+pandas
+scipy
+torch
